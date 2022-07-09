@@ -1,4 +1,4 @@
-![a](https://cdn.discordapp.com/attachments/595687430120669242/995430437583331388/Trilha_Especializar.png)
+![a](https://cdn.discordapp.com/attachments/595687430120669242/995440054669410314/Trilha_Especializar_1.png)
 
 ---
 
