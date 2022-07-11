@@ -2,19 +2,19 @@
 
 ---
 
-### Sobre o Repositório: 
-  Fiz esse repositorio com a intenção de demonstrar/documentar o que estou aprendendo no momento, além de que isso me ajuda na fixação do conteudo.
+### Sobre o Repositório:
+
+Fiz esse repositorio com a intenção de demonstrar/documentar o que estou aprendendo no momento, além de que isso me ajuda na fixação do conteudo.
 
 ### Status de Desenvolvimento: Em Desenvolvimento⚠️
-           
 
 ---
 
-###  Falando um pouco mais sobre repositório
-  #### ⬇️ Abaixo vou fazer uma lista sobre os conteudos abordados e comentar um pouco sobre meu aprendizado. ⬇️
-  
-  * Conteúdos:
-    * Trabalhando com APIs
-    * Fundamentos do ReactJS
-    * Fundamentos do Typescript
-  
+### Falando um pouco mais sobre repositório
+
+#### ⬇️ Abaixo vou fazer uma lista sobre os conteudos abordados e comentar um pouco sobre meu aprendizado. ⬇️
+
+- Conteúdos:
+  - Trabalhando com APIs
+  - Fundamentos do ReactJS
+  - Fundamentos do Typescript
