@@ -10,13 +10,13 @@ Fiz esse repositorio com a intenção de demonstrar/documentar o que estou apren
 
 ---
 
-### Falando um pouco mais sobre repositório
+### Falando um pouco mais sobre o repositório
 
 #### ⬇️ Abaixo vou fazer uma lista sobre os conteudos abordados e comentar um pouco sobre meu aprendizado. ⬇️
 
 ---
   - Trabalhando com APIs:
-    - Gostei muito desse modulo, porque gosto dessa parte do back-end "Integração de APIS" e correlativos. Sem muitas delongas vou citar um pouco do que foi aprendido sobre requisições e rotas.
+    - Gostei muito desse modulo, porque gosto dessa parte do back-end "Integração de APIS" e correlativos. Sem muitas delongas vou citar um pouco do que foi aprendido sobre requisições.
       - Requisições
         Temos entre os principais tipos de métodos de requisição HTTP:
           - GET: Usado para pegar informações.
@@ -24,7 +24,7 @@ Fiz esse repositorio com a intenção de demonstrar/documentar o que estou apren
           - PUT: Atualizar informações.
           - DELETE: remover determinada informação.
           - Certa parte do estudo foi utilizado o axios, o que eu tenho a dizer sobre o axios seria algo como:
-            - Adianto de vida, algo que não não vou deixar de usar a menos que realmente seja necessario kkkk.
+            - Adianto de vida, algo que não vou deixar de usar a menos que realmente seja necessario kkkk.
               - Exemplo **sem axios**:
                 - ![Sem axios](https://media.discordapp.net/attachments/996115127306829896/996789820703658024/noaxios.png?width=830&height=468)
               - Exemplo **com axios**:
